@@ -41,7 +41,6 @@ provide the format in the keyword argument *format* to
    coordinates/XTC
    coordinates/XYZ
    coordinates/memory
-   coordinates/chemfiles
    coordinates/null
 
 .. rubric:: Coordinate core modules
